@@ -8,7 +8,7 @@ A diverse crowd of journalists, programmers, graphic designers, data analysts, c
 * Audience Favorite: [Arizona Dreamin’](https://github.com/justicejournalism/migrahack2015)
 * [“Behind the Wall$”](https://github.com/justicejournalism/behind-the-walls)
 * [“Why They Leave”](#)
-* [“Migrant Deaths on the Border”](#)
+* [“Migrant Deaths on the Border”](https://github.com/justicejournalism/migrant-deaths-on-the-border)
 * [“Jumping the Line”](#)
 * [“Corn & Immigration”](#)
 * [“Becoming a Border Patrol Agent”](https://github.com/justicejournalism/projects)
