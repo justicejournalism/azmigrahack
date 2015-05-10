@@ -10,9 +10,9 @@ A diverse crowd of journalists, programmers, graphic designers, data analysts, c
 * [“Why They Leave”](#)
 * [“Migrant Deaths on the Border”](https://github.com/justicejournalism/migrant-deaths-on-the-border)
 * [“Jumping the Line”](#)
-* [“Corn & Immigration”](#)
+* [“Corn & Immigration”](https://github.com/justicejournalism/corn-and-immigration)
 * [“Becoming a Border Patrol Agent”](https://github.com/justicejournalism/projects)
-* [“Migrant Deaths”](#)
+* [“Migrant Deaths”](https://github.com/justicejournalism/migrantdeaths)
 
 
 ## Judges
